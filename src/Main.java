@@ -1,5 +1,5 @@
 
-import java.util.*; // Import java utility wildcard (all util)
+import java.util.*; // Import java utility wildcard (all util).
 
 public class Main {
     public static void main(String[] args) {
